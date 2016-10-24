@@ -1,0 +1,22 @@
+{
+    "name": "theme-rain-material",
+    "displayName": "Rain-Material",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "Raincal",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material (Rain)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rain.tmTheme"
+            }
+        ]
+    }
+}
